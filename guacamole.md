@@ -1,6 +1,6 @@
-#Ingredients
+# Ingredients
 - avocado
 - lime
 - salt
-#Instructions
+# Instructions
 - Put ingredients in bowl

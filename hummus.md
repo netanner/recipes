@@ -1,7 +1,7 @@
-#Ingredients
+# Ingredients
 - chickpeas
 - lemon
 - olive oil
 - salt
 - garlic
-
+# Directions
